@@ -1,10 +1,4 @@
-from tabulate import tabulate
-from itertools import cycle
-from random import shuffle
-import os
-
-from board import Board
-from player import Player
+from game import Game
 # Justin Li
 # CS50P Final Project: Connect 4
 
